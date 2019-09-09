@@ -13,7 +13,6 @@
             android:name=".NavigationActivity"
             android:label="@string/title_activity_navigation"
             android:theme="@style/AppTheme.NoActionBar">
-
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.library.MainActivity" />
